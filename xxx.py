@@ -1,3 +1,2 @@
 XXX
-YYY
 ZZZ
